@@ -9,8 +9,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Assertion available from within PageObject chained call
- * Created by JockX on 2015-06-13.
+ * Assertion available from within PageObject chained calls
  */
 @SuppressWarnings("unused")
 public class Assertion<T extends Page<T>> {
