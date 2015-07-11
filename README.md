@@ -32,7 +32,7 @@ public class MyPageObject extends Page<MyPageObject>
 - Return a reference to one of your PageObjects from any action method call
 ```java
 PageB clickGoToPageB(){
-    gotoPageA.click();
-    return Page.navigateTo(PageB.class);
+    gotoPageB.click();
+    return Page.waitForPage(PageB.class);
 }
 ```
