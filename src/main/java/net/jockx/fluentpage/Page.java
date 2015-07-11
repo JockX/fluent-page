@@ -98,7 +98,7 @@ public class Page<T extends Page<T>> extends PageObject {
 	}
 
 	/**
-	 * Should be contain a set of conditions that are required for the page to be considered loaded.
+	 * Represents a set of conditions that are required for the page to be considered loaded.
 	 * For example - waiting a set amount of time or until some element is visible
 	 */
 	public T waitToLoad(){

@@ -6,7 +6,7 @@
 
     <groupId>net.jockx</groupId>
     <artifactId>fluent-page</artifactId>
-    <version>0.9</version>
+    <version>1.0</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Extension for Thucydides PageObject with support for fluent object method,
