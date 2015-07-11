@@ -14,7 +14,7 @@ public class Logger <T extends Page<T>> {
 	
 	private final org.slf4j.Logger logger;
 	
-	public Logger(T pageObject) {
+	Logger(T pageObject) {
 		this.page = pageObject;
 		this.logger = LoggerFactory.getLogger(page.getClass());
 	}
