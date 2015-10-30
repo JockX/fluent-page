@@ -29,7 +29,7 @@
     <scm>
         <url>https://github.com/JockX/fluent-page</url>
         <connection>scm:git:https://github.com/JockX/fluent-page.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:JockX/fluent-page.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/JockX/fluent-page.git</developerConnection>
     </scm>
 
     <properties>
